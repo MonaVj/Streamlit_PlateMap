@@ -1,0 +1,12 @@
+streamlit
+pyngrok
+wikipedia
+requests
+beautifulsoup4
+keplergl
+folium
+matplotlib
+opencv-python
+pandas
+plotly
+google-cloud-vision
